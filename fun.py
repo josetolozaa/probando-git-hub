@@ -1,3 +1,4 @@
 def suma(*num):
    return sum(num)
-print(suma(2,2,0,0))
+
+print(suma(0,2,0,0))
